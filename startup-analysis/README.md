@@ -16,7 +16,11 @@ You can find the dataset on the [Kaggle website](https://www.kaggle.com/datasets
 
 ## Setup
 
-Make sure to have Python 3+ installed on your machine.
+Make sure to have Python 3+ installed on your machine. If there are any missing dependencies in this project, install them via pip:
+
+```bash
+$ python -m pip install [dependency]
+```
 
 This project uses IPython Jypeter notebooks, which are quite common in data analysis. If you haven't heard of them, make sure to get the general idea of notebooks [here](https://fileinfo.com/extension/ipynb).
 
