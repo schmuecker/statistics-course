@@ -2,8 +2,6 @@
 
 ## Team
 
----
-
 - Benedikt Elsässer
 - Benjamin Wagner
 - Nico Isele
@@ -12,15 +10,11 @@
 
 ## Objective
 
----
-
 In this exercise, we're trying to use our statistics skills to analyze data about the start-up ecosystem. The dataset includes information about start-up organizations, people, investments, acquisitions and more.
 
 You can find the dataset on the [Kaggle website](https://www.kaggle.com/datasets/justinas/startup-investments). It originates from the Crunchbase 2013 snapshot. More recent data can be found on the [🌍 Crunchbase Data website](https://data.crunchbase.com/docs).
 
 ## Setup
-
----
 
 Make sure to have Python 3+ installed on your machine.
 
@@ -29,8 +23,6 @@ This project uses IPython Jypeter notebooks, which are quite common in data anal
 It is recommended to open the notebooks with [Visual Studio Code](https://code.visualstudio.com). Alternatively, you can upload notebooks to [Google Colab](https://colab.research.google.com) to work with them in the browser.
 
 ## Getting started
-
----
 
 **– 01**
 
