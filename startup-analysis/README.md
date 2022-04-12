@@ -24,25 +24,19 @@ It is recommended to open the notebooks with [Visual Studio Code](https://code.v
 
 ## Getting started
 
-**– 01**
-
-**Downloading the Dataset**
+**01 – Downloading the Dataset**
 
 To download the dataset, you have to obtain a Kaggle API key. For more details, follow the instructions in `load_dataset.ipynb`.
 
 The dataset will be saved in the `startup-investments/` directory.
 
-**– 02**
-
-**Running the Analysis**
+**02 – Running the Analysis**
 
 You can run the `explore_objects.ipynb` notebook to find a general analysis of the organizations dataset.
 
 To go into further details about investments, run the `fundings_analysis.ipynb` notebook.
 
-**– 03**
-
-**Viewing the Geographical Analysis**
+**03 – Viewing the Geographical Analysis**
 
 We've prepared a geographical analysis for start-ups of different industries. Run the `heat_map.ipynb` notebook to get some insights.
 
